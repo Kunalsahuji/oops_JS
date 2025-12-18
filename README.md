@@ -1,3 +1,50 @@
+# 🚀 OOPs in JavaScript
+
+A beginner-friendly and interview-ready repository to understand **Object-Oriented Programming (OOP)** concepts in **JavaScript** with **clear definitions**, **practical examples**, and **real-world use cases**.
+
+---
+
+## 🎯 What You'll Learn
+
+- Core OOP principles in JavaScript
+- ES6 Classes & Objects
+- Encapsulation, Abstraction, Inheritance, Polymorphism
+- Static methods & `this` keyword
+- Real-world OOP-based examples
+- Clean folder structure for easy learning
+
+---
+
+## 📚 Ideal For
+
+- JavaScript beginners
+- MERN / Full Stack developers
+- Interview preparation
+- Students & freshers
+- Developers revising OOP concepts
+
+---
+
+<!-- ===================== CORE LANGUAGE ===================== -->
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![ECMAScript](https://img.shields.io/badge/ECMAScript-6+-blue)
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
+
+<!-- ===================== OOP CONCEPTS ===================== -->
+![OOP](https://img.shields.io/badge/OOP-Object--Oriented-blue)
+![Encapsulation](https://img.shields.io/badge/OOP-Encapsulation-green)
+![Abstraction](https://img.shields.io/badge/OOP-Abstraction-purple)
+![Inheritance](https://img.shields.io/badge/OOP-Inheritance-orange)
+![Polymorphism](https://img.shields.io/badge/OOP-Polymorphism-red)
+
+
+---
+
+
+---
+
+
+
 # 🔥 OOPs in JavaScript – Complete Notes/pdf with Practical Examples
 
 ## 📌 What is OOP?
@@ -111,6 +158,7 @@ console.log(acc.getBalance());
 ```
 
 ✔ Data hiding
+
 ✔ Access via methods only
 
 ---
@@ -139,6 +187,7 @@ payment.pay();
 ```
 
 ✔ User does not care how it works
+
 ✔ User only cares what it does
 
 
@@ -330,11 +379,8 @@ Full Stack Developer | MERN | JavaScript
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kunalsahuji)
 - 💼 [GitHub](https://github.com/Kunalsahuji)
 - 🌍 [Portfolio](https://kunalsahuji.github.io)
-- 📧 [kunal@gmail.com](mailto:kunal@gmail.com)
+- 📧 [ksahu0103@gmail.com](mailto:ksahu0103@gmail.com)
 
 ---
 
-## 📄 License
-
-MIT License © 2025 [Kunal Sahuji](https://github.com/Kunalsahuji)
 
